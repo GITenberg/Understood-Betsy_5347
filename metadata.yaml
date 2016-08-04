@@ -1,0 +1,44 @@
+_repo: Understood-Betsy_5347
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 5347/5347-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Fisher, Dorothy Canfield
+    aliases:
+    - Fisher, Mrs. John Redwood
+    - Canfield, Dorothy
+    - Fisher, Dorothea Frances Canfield
+    birthdate: 1879
+    deathdate: 1958
+    gutenberg_agent_id: '1781'
+    url: http://www.gutenberg.org/2009/agents/1781
+    wikipedia: http://en.wikipedia.org/wiki/Dorothy_Canfield_Fisher
+description: Elizabeth Ann, a nine-year-old girl, is timid and small for her age;
+  she is also an orphan. At first she lives with her father's aunt, Harriet, who expects
+  her to lead a very sheltered life. When she is sent to live with her mother's family,
+  on a farm in Vermont, she is then expected to do many of the chores that Harriet
+  had thought too demanding of a little girl. Elizabeth Ann, nicknamed Betsy, discovers
+  her own abilities and gains a new perception of the world around her.
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5347'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Vermont -- Juvenile fiction'
+- !lcsh 'Country life -- Juvenile fiction'
+- !lcsh 'Self-perception -- Juvenile fiction'
+- GITenberg
+title: Understood Betsy
+url: http://www.gutenberg.org/ebooks/5347
